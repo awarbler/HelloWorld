@@ -14,7 +14,7 @@ This is a basic Hello word program. I created this to demonstrate the use of Vis
  -->
 View a demo of the software here:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/29NGeSJXBxA)
 
 # Development Environment
 
